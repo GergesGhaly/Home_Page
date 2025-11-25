@@ -10,7 +10,6 @@ const defaultLinks = [
   { name: "LinkedIn", url: "https://www.linkedin.com/feed/", enabled: true },
   { name: "Front-end Mentor", url: "https://www.frontendmentor.io/home", enabled: false },
   { name: "GitHub", url: "https://github.com/", enabled: false },
-  { name: "Portofolio", url: "https://gerges.ghaly.surge.sh", enabled: true },
   { name: "Gmail", url: "https://mail.google.com/mail/u/1/?ogbl#inbox", enabled: false },
   { name: "FaceBook", url: "https://www.facebook.com/", enabled: true },
   { name: "Youtube", url: "https://www.youtube.com/", enabled: true },
