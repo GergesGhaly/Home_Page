@@ -8,7 +8,6 @@ import { egyptCities } from "../data/egyptCities";
 const defaultLinks = [
   { name: "GoogleTranslate", url: "https://translate.google.com.eg/?hl=ar&tab=wT", enabled: true },
   { name: "LinkedIn", url: "https://www.linkedin.com/feed/", enabled: true },
-  { name: "Front-end Mentor", url: "https://www.frontendmentor.io/home", enabled: false },
   { name: "GitHub", url: "https://github.com/", enabled: false },
   { name: "Gmail", url: "https://mail.google.com/mail/u/1/?ogbl#inbox", enabled: false },
   { name: "FaceBook", url: "https://www.facebook.com/", enabled: true },
